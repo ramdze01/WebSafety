@@ -1,0 +1,113 @@
+.page {
+  max-width: 850px;
+  margin: 60px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 56px;
+  margin-bottom: 8px;
+  line-height: 1.1;
+}
+
+.subtitle {
+  color: #888;
+  margin-top: 0;
+  margin-bottom: 35px;
+  font-size: 18px;
+}
+
+.scan-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+input {
+  width: 360px;
+  padding: 12px;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px 22px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.result-card {
+  max-width: 520px;
+  margin: 25px auto 0;
+  padding: 24px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.result-card h2 {
+  margin-top: 0;
+}
+
+.result-card p {
+  margin: 8px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 25px;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+td:first-child {
+  font-weight: bold;
+  text-align: left;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+.info-section {
+  margin-top: 45px;
+  text-align: left;
+}
+
+.info-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.info-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 18px;
+  margin-bottom: 14px;
+}
+
+.info-card h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.info-card p {
+  margin: 0;
+  color: #555;
+  line-height: 1.5;
+}
