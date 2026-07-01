@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HgeHPSQ2u+WSzOlEfP43oxILnIIYWaz+RnZ25KtBAJk=",
+  "Source": "WebSafety.Api",
+  "BasePath": "_content/WebSafety.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
